@@ -63,3 +63,8 @@ function getCategoryNo(data) {
 console.log(setCategoryString(data, 1));
 
 console.log(getCategoryNo(data));
+
+let test = 0;
+for (let i = 0; i < 10; i++) {
+  test += i;
+}

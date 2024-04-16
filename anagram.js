@@ -26,3 +26,5 @@ function validAnagram(first, second) {
   }
   return true;
 }
+
+console.log(validAnagram("testestsetset", "testestsetset"));
